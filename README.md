@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaviyarasan
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me arasank327@gmail.com
 
